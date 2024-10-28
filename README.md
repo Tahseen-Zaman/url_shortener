@@ -1,2 +1,2 @@
 # url_shortener
-Go Project for URL Shortener we will use fibre and Redis
+Go Project for URL Shortener we will use fiber and Redis
